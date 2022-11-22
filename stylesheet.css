@@ -1,0 +1,19 @@
+<style>
+        h1 {
+            color:black
+        }
+        h2 {
+            color: #2D2726
+        }
+        h3 {
+            color: blueviolet
+        }
+        hr {
+            height: 5px;
+            background-color: blueviolet;
+            border: none;
+        }
+        img {
+            height: 20px;
+        }
+</style>
